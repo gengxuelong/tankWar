@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="tankWar:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/tankWar_jar</output-path>
+    <root id="archive" name="tankWar.jar">
+      <element id="module-output" name="tankWar" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../download/repository_maven_download/org/apache/directory/studio/org.apache.commons.io/2.4/org.apache.commons.io-2.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../download/repository_maven_download/commons-io/commons-io/2.4/commons-io-2.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../download/repository_maven_download/org/apache/commons/com.springsource.org.apache.commons.logging/1.1.1/com.springsource.org.apache.commons.logging-1.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../download/repository_maven_download/org/springframework/org.springframework.core/3.2.2.RELEASE/org.springframework.core-3.2.2.RELEASE.jar" path-in-jar="/" />
+      <element id="library" level="project" name="org.springframework.core-3.2.2.RELEASE" />
+    </root>
+  </artifact>
+</component>
